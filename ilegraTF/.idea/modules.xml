@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/farmacia.iml" filepath="$PROJECT_DIR$/.idea/modules/farmacia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/farmacia_main.iml" filepath="$PROJECT_DIR$/.idea/modules/farmacia_main.iml" group="farmacia" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/farmacia_test.iml" filepath="$PROJECT_DIR$/.idea/modules/farmacia_test.iml" group="farmacia" />
+    </modules>
+  </component>
+</project>
